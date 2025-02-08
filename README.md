@@ -1,5 +1,5 @@
 # Sentiment Analysis
-This project anlayzes playstore reviews using 6 different algorithms and determines the most efficient algorithm with the highest accuracy.
+This project analyzes playstore reviews using 6 different algorithms and determines the most efficient algorithm with the highest accuracy.
 
 Let's connect on Linkedin: https://linkedin.com/in/sanju26/
 
